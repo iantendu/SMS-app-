@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">C026-01-0342_2018</string>
+    <string name="editTextPhoneHint">Recipient</string>
+    <string name="editTextMessageHint">Enter message</string>
+    <string name="sendButtonContentDescription">Send Message</string>
+</resources>
